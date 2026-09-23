@@ -1,0 +1,14 @@
+"DepotBuildConfig"
+{
+	"DepotID" "481"
+	"ContentRoot" "..\dist\PixelRogue\"
+
+	"FileMapping"
+	{
+		"LocalPath" "*"
+		"DepotPath" "."
+		"recursive" "1"
+	}
+
+	"FileExclusion" "*.pdb"
+}

@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build outputs
+build/
+dist/
+
+# Mobile / Android build outputs
+.buildozer/
+bin/
+
+# Local game saves
+save_data.json
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
+.DS_Store

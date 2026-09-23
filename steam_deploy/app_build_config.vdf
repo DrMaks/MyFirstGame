@@ -1,0 +1,15 @@
+"appbuild"
+{
+	"appid" "480"
+	"desc" "Pixel Rogue v1.0.0 Release Build"
+	"buildoutput" "..\build\steampipe_output\"
+	"contentroot" "..\dist\PixelRogue\"
+	"setlive" ""
+	"preview" "0"
+	"local" ""
+
+	"depots"
+	{
+		"481" "depot_build_config.vdf"
+	}
+}
